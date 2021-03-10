@@ -1,0 +1,93 @@
+#main {
+    background-color: #faf6ed>;
+    font-family: serif;
+    line-height: 1.5;
+    text-align: center;
+    color: #403d39;
+}
+
+.pagecolor {
+    background-color: #f5ebd5;
+    display: block;
+    left-margin: 35px;
+    right-margin: 35px;
+    top-margin: 35px;
+    bottom-margin: 35px;
+    border-radius: 5px;
+}
+
+.heading {
+    width: 2000px;
+    height: 175px;
+    border-radius: 5%;
+}
+
+#title {
+    display: block;
+    left-margin: auto;
+    right-margin: auto;
+    font-family: vastshadow, garamond;
+    letter-spacing: 15px;
+    color: #252422;
+    font-size: 40px;
+    font-style: bold;
+    }
+
+#subtitle {
+    text-align: center;
+    font-size: 15px;
+    color: #403d39;
+    font-style: italic;
+
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 40%;
+    border-radius: 3%;
+    text-align: center;
+}
+
+.whitebackground {
+    display: block;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: white;
+    border-radius: 1%;
+    padding: 20px;
+}
+
+.quote {
+    font-style: italic;
+
+}
+
+.readmore {
+    font-size: 30px;
+    font-style: bold;
+}
+
+#tribute-info {
+    text-align: left;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.year {
+    font-style: bold;
+}
+
+#img-caption {
+    font-style: italic;
+    font-family: "Cabin Condensed";
+}
+
+#tribute-link {
+        font-size: 30px;
+        font-style: bold;
+    }
+
